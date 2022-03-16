@@ -1,3 +1,3 @@
 // Import stylesheets
-import './Ukol1';
+import './Ukol1.js';
 
